@@ -13,7 +13,7 @@
 2. Обходит все дерево папок за раз.
 3. Мультиплатформенно и безопасно.
 
-![Image alt]https://github.com/phantie/flacon_to_flac/blob/master/example.png
+![Image alt](https://github.com/phantie/flacon_to_flac/blob/master/example.png)
 
 Примечание.
    Не в 'C:/Users/', а, допустим, в 'C:/Users/username/Music/'. 
